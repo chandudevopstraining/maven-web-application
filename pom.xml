@@ -99,7 +99,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://15.206.128.227:8081/chandumidatha/repository/job2-release/</url>
+	      <url>http://15.206.128.227:8081/chandumidatha/repository/job2-snapshot/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
