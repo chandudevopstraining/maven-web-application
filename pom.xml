@@ -99,13 +99,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://15.206.128.227:8081/chandumidatha/repository/job2-snapshot/</url>
+	      <url>http://13.126.80.4:8081/chandumidatha/repository/job4-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://15.206.128.227:8081/chandumidatha/repository/job2-snapshot/</url>
+	      <url>http://13.126.80.4:8081/chandumidatha/repository/job4-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
